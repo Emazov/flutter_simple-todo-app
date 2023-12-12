@@ -1,4 +1,4 @@
-# task_manager
+# Simple todo app
 
 A new Flutter project.
 
